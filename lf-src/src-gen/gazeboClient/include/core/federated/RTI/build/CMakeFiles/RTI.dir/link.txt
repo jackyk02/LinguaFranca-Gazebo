@@ -1,0 +1,1 @@
+/usr/bin/cc    CMakeFiles/RTI.dir/rti.c.o CMakeFiles/RTI.dir/home/jk/lingua-franca/org.lflang/src/lib/c/reactor-c/core/platform/lf_linux_support.c.o CMakeFiles/RTI.dir/home/jk/lingua-franca/org.lflang/src/lib/c/reactor-c/core/utils/pqueue.c.o CMakeFiles/RTI.dir/message_record/message_record.c.o  -o RTI  -lpthread 
